@@ -1,3 +1,3 @@
 # Subreddit-1
 
-The folder contains the core files i used
+This is a little script to pull the top posts of a subreddit, created for a Youtuber.
